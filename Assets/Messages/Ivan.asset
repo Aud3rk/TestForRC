@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bec0a3ccd175dd4d9712564ae51b186, type: 3}
+  m_Name: Ivan
+  m_EditorClassIdentifier: 
+  Id: Ivan
+  Name: Ivan
+  Color: {r: 0.2979263, g: 0.76360446, b: 0.9716981, a: 1}
+  Icon: {fileID: 21300000, guid: e1cf5622a82e3974f977aa4f3f41e160, type: 3}
